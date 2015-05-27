@@ -1,0 +1,9 @@
+#messages {
+    height: 350px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.collection-item:nth-child(even) {
+    background-color: #eee;
+}
